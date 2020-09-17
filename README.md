@@ -3,7 +3,7 @@ The YelpCamp project is an implementation of The Web Developer Bootcamp by Colt 
 
 Node.js
 HTML, CSS, Bootstrap
-express, passport
+express, passport,
 mongo db
 
 
