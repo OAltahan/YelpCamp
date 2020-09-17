@@ -1,0 +1,34 @@
+.img-thumbnail img {
+    width: 100%;
+}
+
+.img-thumbnail {
+    padding: 0;
+}
+
+.img-thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-from {
+    display: inline;
+}
+
+.jumbotron {
+    background: url(http://i.imgur.com/TVGe0Ef.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 20%;
+    text-align: center;
+    color: white;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.jumbotron div {
+    margin-top: 15%;
+    margin-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: rgba(10, 130, 4, .6);
+}
